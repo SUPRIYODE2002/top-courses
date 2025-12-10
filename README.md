@@ -27,6 +27,9 @@ CSS – Styling and layout
 Create React App – Build setup  
 GitHub Pages – Deployment  
 
+Screenshots:-
+<img width="1897" height="873" alt="image" src="https://github.com/user-attachments/assets/789f34cf-d3c9-4f45-bb37-1d8d06970f71" />
+
 
 
  Folder Structure:-
